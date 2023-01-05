@@ -3,5 +3,6 @@
 
 
 def floor(n: float) -> int:
-    """ takes float, returns rounded int """
+    """ function takes a float and
+    returns rounded int """
     return (int(n))

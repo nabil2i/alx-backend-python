@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Defines and annotates vars """
+""" Defines and annotates vars"""
 
 
 a: int = 1
